@@ -125,6 +125,7 @@ table tr {
 	color: #6B6B6B;
 }
 .reg_name {
+	width: 175px;
 	margin-bottom: 10px;
 	padding: 9px 8px;
 	font-family: HelveticaNeueLight;
